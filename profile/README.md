@@ -1,4 +1,3 @@
-## Welcome to BrainFlight 
 We're a small team of engineers and researchers who want to streamline the process of teaching robots how to better interact with us! 
 Our north star is to build a firmware-agnostic platform enabling users to define action spaces, constraints, and expected behaviour for any robotic system.
 
