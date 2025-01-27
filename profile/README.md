@@ -1,5 +1,5 @@
-We're a small team of engineers and researchers who want to streamline the process of teaching robots how to better interact with us! 
-Our north star is to build a firmware-agnostic platform enabling users to define action spaces, constraints, and expected behaviour for any robotic system.
+We're a small team of engineers and researchers building XRIF (eXtensible Robot Instruction Formatting)!
+Our north star is to build a firmware-agnostic platform enabling users to define action spaces, constraints, and guardrails for their human-robot interaction use cases.
 
 Here are some cool papers that inspired us:
 - <a href="https://openvla.github.io/">OpenVLA</a>
